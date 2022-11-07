@@ -5,5 +5,5 @@
  * @author User
  *
  */
-module myProject {
+module Assignments {
 }
