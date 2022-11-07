@@ -15,7 +15,7 @@ public class ArrayListDemo {
 		list.remove(1);
 		System.out.println(list);
 		
-		
+		//adding this
 		
 	}
 
